@@ -5,6 +5,7 @@
     <groupId>com.github.pavelety</groupId>
     <artifactId>springfox-swagger2-modulable</artifactId>
     <version>2.9.2</version>
+
     <build>
         <plugins>
             <plugin>
