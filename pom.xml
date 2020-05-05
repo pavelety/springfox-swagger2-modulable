@@ -33,7 +33,7 @@
                                     <exclude>org.springframework:spring-core</exclude>
                                     <exclude>org.springframework:spring-context</exclude>
                                     <exclude>org.springframework:spring-expression</exclude>
-                                    <!--<exclude>aopalliance:aopalliance</exclude>-->
+                                    <exclude>aopalliance:aopalliance</exclude>
                                 </excludes>
                             </artifactSet>
                         </configuration>
