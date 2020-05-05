@@ -4,10 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.pavelety</groupId>
     <artifactId>springfox-swagger2-modulable</artifactId>
-    <version>1.0.3</version>
-    <properties>
-        <springfox.version>2.9.2</springfox.version>
-    </properties>
+    <version>2.9.2</version>
     <build>
         <plugins>
             <plugin>
@@ -48,12 +45,12 @@
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger2</artifactId>
-            <version>${springfox.version}</version>
+            <version>${project.version}</version>
         </dependency>
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
-            <version>${springfox.version}</version>
+            <version>${project.version}</version>
         </dependency>
     </dependencies>
 </project>
