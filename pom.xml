@@ -27,7 +27,7 @@
                                     <exclude>com.fasterxml.jackson.core:jackson-annotations</exclude>
                                     <exclude>org.slf4j:slf4j-api</exclude>
                                     <!--<exclude>org.springframework.plugin:spring-plugin-core</exclude>-->
-                                    <exclude>org.springframework.plugin:spring-plugin-metadata</exclude>
+<!--                                    <exclude>org.springframework.plugin:spring-plugin-metadata</exclude>-->
                                     <exclude>org.springframework:spring-aop</exclude>
                                     <exclude>org.springframework:spring-beans</exclude>
                                     <exclude>org.springframework:spring-core</exclude>
