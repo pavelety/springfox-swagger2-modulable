@@ -20,7 +20,7 @@
                         <configuration>
                             <artifactSet>
                                 <excludes>
-                                    <!--<exclude>net.bytebuddy:byte-buddy</exclude>-->
+                                    <exclude>net.bytebuddy:byte-buddy</exclude>
                                     <!--<exclude>com.google.guava:guava</exclude>-->
                                     <exclude>com.fasterxml:classmate</exclude>
                                     <exclude>com.fasterxml.jackson.core:jackson-annotations</exclude>
